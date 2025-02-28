@@ -25,8 +25,6 @@ These are raw unadjusted figures - you will need to deflate them according to cu
 
 Sadly, before and after 2015, the collection of LA expenditure data changes which has made it incomparable in ways I haven't found possible to reconcile.
 
-**Some of this repo has reprdocubile code, some is a little funky pls reach out to me at benjamin.goodair@bsg.ox.ac.uk for help xx**
-
 **Notes for Inspections**
 
 Care homes aren't inspected every year - so if a care home was inspected "Good" in 2015 and "Outstanding in 2019", it will be recorded in the data as good in 2015, 2016, 2017, 2018. And outstanding 2019, 2020, 2021, 2022...
@@ -34,3 +32,6 @@ Care homes aren't inspected every year - so if a care home was inspected "Good" 
 So this is a snapshot of all care homes each year as opposed to the homes inspected in each year
 
 "Community based adult social care services" are categorised as such according to what locations are inspected for.
+
+**Some of this repo has reprdocubile code, some is a little funky pls reach out to me at benjamin.goodair@bsg.ox.ac.uk for help xx**
+
